@@ -1,0 +1,5 @@
+```reg
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm]
+"OverlayTestMode"=dword:00000005
